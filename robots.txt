@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://subk.co.il/sitemap.xml
